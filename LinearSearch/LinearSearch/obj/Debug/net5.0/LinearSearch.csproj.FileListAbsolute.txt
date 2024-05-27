@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\LinearSearch.exe
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\LinearSearch.deps.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\LinearSearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\ref\LinearSearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\bin\Debug\net5.0\LinearSearch.pdb
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\ref\LinearSearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.pdb
+C:\Users\Taras Sliusar\source\repos\Algorithms\LinearSearch\LinearSearch\obj\Debug\net5.0\LinearSearch.genruntimeconfig.cache
