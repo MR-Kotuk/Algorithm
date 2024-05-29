@@ -15,6 +15,7 @@ namespace LinearSearch
                 Console.Write($"{num} ");
         }
 
+        // O(n)
         private static int LinearSearch(int[] array, int searchingNum)
         {
             for (int i = 0; i < array.Length; i++)

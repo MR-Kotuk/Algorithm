@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+C:\Users\Taras Sliusar\source\repos\Algorithms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache
