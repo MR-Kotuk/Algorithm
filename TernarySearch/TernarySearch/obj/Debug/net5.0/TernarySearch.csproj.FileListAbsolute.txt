@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\TernarySearch.exe
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\TernarySearch.deps.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\TernarySearch.runtimeconfig.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\TernarySearch.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\TernarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\ref\TernarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\bin\Debug\net5.0\TernarySearch.pdb
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.AssemblyInfo.cs
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\ref\TernarySearch.dll
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.pdb
+C:\Users\Taras Sliusar\source\repos\Algorithms\TernarySearch\TernarySearch\obj\Debug\net5.0\TernarySearch.genruntimeconfig.cache
