@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDIPwGjVk5bnFEq0CWyMMxbvUu0ucwNSENaOfsoJp+b53kxk6mlOSF/DItNQN4n8cVcQwz3YeGL1yyiD2fU2CA==",
+  "dgSpecHash": "D5NiA73LqhtFzU0DRuyKbhx1uqHk2DmHnILVDuk9WGySj6yelNTrG0DEGAjXdHm2qnW3zNGXhTggL9Ou3xYE4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\TernarySearch\\TernarySearch\\TernarySearch.csproj",
+  "projectFilePath": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Searcing\\TernarySearch\\TernarySearch\\TernarySearch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

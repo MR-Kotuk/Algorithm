@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Searcing\\TernarySearch\\TernarySearch\\TernarySearch.csproj",
-      "projectName": "TernarySearch",
-      "projectPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Searcing\\TernarySearch\\TernarySearch\\TernarySearch.csproj",
+      "projectUniqueName": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Sorting\\SelectionSort\\SelectionSort\\SelectionSort.csproj",
+      "projectName": "SelectionSort",
+      "projectPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Sorting\\SelectionSort\\SelectionSort\\SelectionSort.csproj",
       "packagesPath": "C:\\Users\\Taras Sliusar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Searcing\\TernarySearch\\TernarySearch\\obj\\",
+      "outputPath": "C:\\Users\\Taras Sliusar\\source\\repos\\Algorithms\\Sorting\\SelectionSort\\SelectionSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
