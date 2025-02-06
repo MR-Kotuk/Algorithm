@@ -1,6 +1,8 @@
 public class Searching {
     // O(n)
     public static int linearSearch(int[] array, int searchingNum) {
+        System.out.println("Linear Search O(n):");
+
         for (int i = 0; i < array.length; i++)
             if (array[i] == searchingNum)
                 return i;
@@ -10,6 +12,8 @@ public class Searching {
 
     // O(log n)
     public static int binarySearch(int[] array, int target) {
+        System.out.println("Binary Search O(log n):");
+
         int left = 0;
         int right = array.length - 1;
 
@@ -30,6 +34,8 @@ public class Searching {
 
     // O(log 3 n)
     public static int ternarySearch(int[] array, int searchingNum, int left, int right) {
+        System.out.println("Ternary Search O(log 3 n):");
+
         if (right >= left) {
             int middleOne = left + (right - left) / 3;
             int middleTwo = right - (right - left) / 3;

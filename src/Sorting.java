@@ -1,6 +1,8 @@
 public class Sorting {
     // O(n^2)
     public static int[] bubbleSort(int[] array) {
+        System.out.println("Bubble Sort O(n^2):");
+
         for (int i = 0; i < array.length - 1; i++) {
             boolean isSwapped = false;
 
@@ -20,6 +22,8 @@ public class Sorting {
 
     // O(n^2)
     public static int[] insertionSort(int[] array) {
+        System.out.println("Insertion Sort O(n^2):");
+
         for (int i = 0; i < array.length; ++i) {
             int currentElement = array[i];
             int lastElementIndex = i - 1;
@@ -37,6 +41,8 @@ public class Sorting {
 
     // O(n log n)
     public static void mergeSort(int[] array, int left, int right) {
+        System.out.println("Merge Sort O(n log n):");
+
         if (left < right) {
             int middle = left + (right - left) / 2;
 
@@ -88,6 +94,8 @@ public class Sorting {
 
     // O(n^2)
     public static void quickSort(int[] array, int low, int high) {
+        System.out.println("Quick Sort O(n^2):");
+
         if (low < high) {
             int pivot = partition(array, low, high);
 
@@ -110,6 +118,8 @@ public class Sorting {
 
     // O(n^2)
     public static int[] selectionSort(int[] array) {
+        System.out.println("Selection Sort O(n^2):");
+
         for (int i = 0; i < array.length; i++) {
             int minElementIndex = i;
 
